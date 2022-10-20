@@ -1,0 +1,25 @@
+{
+    "applinks":{
+        "apps":[
+
+        ],
+        "details":[
+            {
+                "paths":[
+                    "/doubanapp/dispatch",
+                    "/doubanapp/dispatch*",
+                    "/qq_conn/1101982924/*"
+                ],
+                "appID":"KB87DP6VS6.cn.aishu.AnyShare"
+            },
+{
+                "paths":[
+                    "/doubanapp/dispatch",
+                    "/doubanapp/dispatch*",
+                    "/qq_conn/1101982924/*"
+                ],
+                "appID":"ZW2L44W26F.cn.aishu.AnyShare"
+            }
+        ]
+    }
+}
