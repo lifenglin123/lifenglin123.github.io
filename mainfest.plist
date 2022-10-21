@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.2.42/download/1/AnyShare_iOS-6.0.71-20190809-Release-6.0.7.1.ipa</string>
+					<string>http://192.168.2.42/download/1/AnyShare_iOS-6.0.71-20190809-Release-6.0.7.1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
