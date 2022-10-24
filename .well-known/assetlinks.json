@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cn.aishu.anyshare",
+    "sha256_cert_fingerprints": ["5F:E8:AB:B7:C2:7A:4D:31:5B:0A:3E:3E:EE:69:F0:58:1C:64:55:13:64:2A:3A:C5:04:83:19:12:6F:11:2A:2C"]
+  }
+}]
